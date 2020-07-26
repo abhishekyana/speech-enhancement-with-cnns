@@ -1,5 +1,5 @@
-# speech-enhancement-with-cnns
-Speech Enhancement With CNNs: PyTorch code with Pretrained model. 
+# Speech Enhancement With CNNs: 
+### PyTorch code with Pretrained model. 
 
 1. Clone the repo. `git clone https://github.com/abhishekyana/speech-enhancement-with-cnns` and cd into it. 
 1. Install all the requirements mentioned in the `requirements.txt`
