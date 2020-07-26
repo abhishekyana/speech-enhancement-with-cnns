@@ -1,6 +1,6 @@
 # Speech Enhancement With CNNs: 
 ### PyTorch code with Pretrained model. 
-
+Steps to run:
 1. Clone the repo. `git clone https://github.com/abhishekyana/speech-enhancement-with-cnns` and cd into it. 
 1. Install all the requirements mentioned in the `requirements.txt`
 1. CD into INFERRING - `cd ./INFERRING`
